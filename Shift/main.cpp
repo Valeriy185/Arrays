@@ -84,6 +84,6 @@ void main()
 		{
 			cout << arr[j] << "\t";
 		}
-		cout << endl;*/
+		cout << endl; rr*/
 	
 }

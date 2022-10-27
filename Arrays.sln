@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.2017
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays", "Arrays\Arrays.vcxproj", "{EDD5D7E8-23B6-4E9E-AD66-D8C504FE3AE7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shift", "Shift\Shift.vcxproj", "{F26C0C04-7293-43B7-9835-EF17110BB52F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{EDD5D7E8-23B6-4E9E-AD66-D8C504FE3AE7}.Release|x64.Build.0 = Release|x64
 		{EDD5D7E8-23B6-4E9E-AD66-D8C504FE3AE7}.Release|x86.ActiveCfg = Release|Win32
 		{EDD5D7E8-23B6-4E9E-AD66-D8C504FE3AE7}.Release|x86.Build.0 = Release|Win32
+		{F26C0C04-7293-43B7-9835-EF17110BB52F}.Debug|x64.ActiveCfg = Debug|x64
+		{F26C0C04-7293-43B7-9835-EF17110BB52F}.Debug|x64.Build.0 = Debug|x64
+		{F26C0C04-7293-43B7-9835-EF17110BB52F}.Debug|x86.ActiveCfg = Debug|Win32
+		{F26C0C04-7293-43B7-9835-EF17110BB52F}.Debug|x86.Build.0 = Debug|Win32
+		{F26C0C04-7293-43B7-9835-EF17110BB52F}.Release|x64.ActiveCfg = Release|x64
+		{F26C0C04-7293-43B7-9835-EF17110BB52F}.Release|x64.Build.0 = Release|x64
+		{F26C0C04-7293-43B7-9835-EF17110BB52F}.Release|x86.ActiveCfg = Release|Win32
+		{F26C0C04-7293-43B7-9835-EF17110BB52F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
